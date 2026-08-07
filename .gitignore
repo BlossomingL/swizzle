@@ -1,0 +1,15 @@
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.webp
+*.ico
+*.tiff
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
